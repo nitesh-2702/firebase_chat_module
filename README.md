@@ -1,6 +1,6 @@
 # firebase_chat_module
 
-A new Flutter project.
+This is the chat module through Firebase Chat Service with Firestore Database. We have also used Provider in this module.
 
 ## Getting Started
 
